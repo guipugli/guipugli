@@ -18,5 +18,5 @@
 </div><br/>
 
 - 🔥 Apaixonado por tecnologia.
-- 😋 Trabalho com back-end.
+- 😋 Trabalho como dev full stack.
 - 📖 Estudando banco de dados...
